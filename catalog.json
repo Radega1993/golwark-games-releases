@@ -15,18 +15,18 @@
       "logo": "warpaz-logo.webp",
       "platforms": {
         "windows-x64": {
-          "version": "1.2.4",
-          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.2.4/WarpazTCG-v1.2.4-windows-x64.zip",
-          "sha256": "d5c94e11b1ee83f59cb75c401af30aaf172f979fdff97005b68552d6e69b4772",
+          "version": "1.2.5",
+          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.2.5/WarpazTCG-v1.2.5-windows-x64.zip",
+          "sha256": "2165f1182f0a3de9250302c07988b083dd55349860a4a9d72388e8cf52d922ed",
           "executable": "WarpazTCG.exe",
-          "sizeBytes": 266305096
+          "sizeBytes": 266313776
         },
         "linux-x64": {
-          "version": "1.2.4",
-          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.2.4/WarpazTCG-v1.2.4-linux-x64.zip",
-          "sha256": "4c6e0a812fd30fb03dc26fa40b767fc227842944fa6390befcdce1aafaac2c0e",
+          "version": "1.2.5",
+          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.2.5/WarpazTCG-v1.2.5-linux-x64.zip",
+          "sha256": "b9a4e4ae95d78a5166aec56d301a6a5d85b9082369b38d5e7561fcd863dfe9de",
           "executable": "WarpazTCG.x86_64",
-          "sizeBytes": 264479568
+          "sizeBytes": 264503845
         }
       },
       "features": [
