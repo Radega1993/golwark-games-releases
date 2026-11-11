@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "id": "warpaztcg",
+      "name": "Warpaz TCG",
+      "tagline": "Cada carta es una decisión. Cada turno, una batalla.",
+      "description": "El primer juego del universo Golwark. Construye tu mazo, domina la Vanguardia y la Retaguardia, y reta a otros jugadores en combates tácticos por turnos.",
+      "genre": "JUEGO DE CARTAS · ESTRATEGIA",
+      "engine": "Unity",
+      "status": "available",
+      "websiteUrl": "https://playwarpaztcg.radega.com",
+      "downloadPageUrl": "https://drive.google.com/drive/u/3/folders/1UQcFiY5j8ji_dT8aUZdkmuPSZ6QkKT-O",
+      "cover": "world-banner.webp",
+      "logo": "warpaz-logo.webp",
+      "platforms": {
+        "windows-x64": { "version": "1.2.4", "url": "", "sha256": "", "executable": "WarpazTCG.exe", "sizeBytes": null },
+        "linux-x64": { "version": "1.2.4", "url": "", "sha256": "", "executable": "WarpazTCG.x86_64", "sizeBytes": null }
+      },
+      "features": ["Mazos personalizados", "Combate táctico", "Partidas online", "Bots y tutorial"]
+    }
+  ]
+}
