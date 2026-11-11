@@ -10,14 +10,31 @@
       "engine": "Unity",
       "status": "available",
       "websiteUrl": "https://playwarpaztcg.radega.com",
-      "downloadPageUrl": "https://drive.google.com/drive/u/3/folders/1UQcFiY5j8ji_dT8aUZdkmuPSZ6QkKT-O",
+      "downloadPageUrl": "https://github.com/Radega1993/golwark-games-releases/releases",
       "cover": "world-banner.webp",
       "logo": "warpaz-logo.webp",
       "platforms": {
-        "windows-x64": { "version": "1.2.4", "url": "", "sha256": "", "executable": "WarpazTCG.exe", "sizeBytes": null },
-        "linux-x64": { "version": "1.2.4", "url": "", "sha256": "", "executable": "WarpazTCG.x86_64", "sizeBytes": null }
+        "windows-x64": {
+          "version": "1.2.4",
+          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.2.4/WarpazTCG-v1.2.4-windows-x64.zip",
+          "sha256": "d5c94e11b1ee83f59cb75c401af30aaf172f979fdff97005b68552d6e69b4772",
+          "executable": "WarpazTCG.exe",
+          "sizeBytes": 266305096
+        },
+        "linux-x64": {
+          "version": "1.2.4",
+          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.2.4/WarpazTCG-v1.2.4-linux-x64.zip",
+          "sha256": "4c6e0a812fd30fb03dc26fa40b767fc227842944fa6390befcdce1aafaac2c0e",
+          "executable": "WarpazTCG.x86_64",
+          "sizeBytes": 264479568
+        }
       },
-      "features": ["Mazos personalizados", "Combate táctico", "Partidas online", "Bots y tutorial"]
+      "features": [
+        "Mazos personalizados",
+        "Combate táctico",
+        "Partidas online",
+        "Bots y tutorial"
+      ]
     }
   ]
 }
