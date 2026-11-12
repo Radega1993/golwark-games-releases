@@ -5,7 +5,7 @@
       "id": "warpaztcg",
       "name": "Warpaz TCG",
       "tagline": "Cada carta es una decisión. Cada turno, una batalla.",
-      "description": "El primer juego del universo Golwark. Construye tu mazo, domina la Vanguardia y la Retaguardia, y reta a otros jugadores en combates tácticos por turnos.",
+      "description": "El primer juego del universo Gol'wark. Construye tu mazo, domina la Vanguardia y la Retaguardia, y reta a otros jugadores en combates tácticos por turnos.",
       "genre": "JUEGO DE CARTAS · ESTRATEGIA",
       "engine": "Unity",
       "status": "available",
@@ -15,18 +15,18 @@
       "logo": "warpaz-logo.webp",
       "platforms": {
         "windows-x64": {
-          "version": "1.3.0",
-          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.3.0/WarpazTCG-v1.3.0-windows-x64.zip",
-          "sha256": "6eda6af073742248f8f36ce2267571c166e5901a61e7ca01ae568e0383ccbe5c",
+          "version": "1.3.1",
+          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.3.1/WarpazTCG-v1.3.1-windows-x64.zip",
+          "sha256": "2587cdc2f5ff161b1499696f0f19c4127db030ce91c317c6a93471979e15545e",
           "executable": "WarpazTCG.exe",
-          "sizeBytes": 300267549
+          "sizeBytes": 304055659
         },
         "linux-x64": {
-          "version": "1.3.0",
-          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.3.0/WarpazTCG-v1.3.0-linux-x64.zip",
-          "sha256": "0c444ec7ddf7afdfb5d0218284578544ef0f55f6e1cc4de2bf4c11ef2467ebf9",
+          "version": "1.3.1",
+          "url": "https://github.com/Radega1993/golwark-games-releases/releases/download/warpaztcg-v1.3.1/WarpazTCG-v1.3.1-linux-x64.zip",
+          "sha256": "532234b0977d67da0dfcef2bf2f7c83ef69a0182aae40a4aa68c22b4a181ce2a",
           "executable": "WarpazTCG.x86_64",
-          "sizeBytes": 298455937
+          "sizeBytes": 302242867
         }
       },
       "features": [
